@@ -1,0 +1,11 @@
+{
+  "name": "bootstrap4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JJIvan/bootstrap4.git",
+  "author": "江 <ivan555ivan555@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
