@@ -8,6 +8,7 @@
   "dependencies": {
     "bootstrap": "^4.0.0",
     "gulp": "^3.9.1",
-    "gulp-htmlmin": "^4.0.0"
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-watch": "^5.0.0"
   }
 }
