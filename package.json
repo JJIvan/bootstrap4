@@ -6,6 +6,8 @@
   "author": "江 <ivan555ivan555@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "gulp": "^3.9.1"
+    "bootstrap": "^4.0.0",
+    "gulp": "^3.9.1",
+    "gulp-htmlmin": "^4.0.0"
   }
 }
